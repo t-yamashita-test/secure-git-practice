@@ -1,2 +1,2 @@
 # Security Guidelines
-Please report vulnerabilities to t-yamashita@gmail.com.
+Please report vulnerabilities to t-yamashita-test@gmail.com.
