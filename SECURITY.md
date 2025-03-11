@@ -1,2 +1,2 @@
 # Security Guidelines
-Please report vulnerabilities to security@example.com.
+Please report vulnerabilities to t-yamashita@gmail.com.
